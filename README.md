@@ -1,2 +1,3 @@
-# agileramblings.github.io
-Test for gh pages
+# The Ramblings of an Kanban Practioner
+
+Testing out gh pages functionality.
